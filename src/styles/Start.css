@@ -23,3 +23,12 @@
   transform: translateY(-6px);
   transition:0.3s all;
 }
+
+.Start-button:hover {
+  opacity: 80%;
+}
+
+.Start-button:active {
+  box-shadow:0 2px 0 0 #262c47;
+  transform: translateY(-2px);
+}
